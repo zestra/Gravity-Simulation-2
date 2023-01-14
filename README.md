@@ -1,5 +1,8 @@
 # Gravity-Simulation-2
-My Second and Latest Gravity Simulation, made for Al Bateen Academy, Aldar Academies
+My Second and Latest Gravity Simulation, made for Al Bateen Academy, Aldar Academies, and one's self-satisfaction.
+
+## Requirements
+The program is based on the language Python, so you will need that. You will also require the [code]math[/code] and [code]pygame[/code] modules. It will be better if you make sure that you have the latest versions of these modules, just in case.
 
 ## Updates
 I am proud to present to you Draft 2 of my Gravity Simulation 2!
